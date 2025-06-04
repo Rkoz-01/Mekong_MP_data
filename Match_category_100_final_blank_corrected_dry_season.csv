@@ -1,0 +1,137 @@
+site,match_category_corrected,size_W,size_L,morphology,blank_type,filename,total_values,volume,subsample_rate,total_N,total_MDA,corrected_N,N_per_L
+B1,Polyethylenes,<50,100-200,fiber/filament,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,46,0.2,5,3.3333333333333335,1.6666666666666665,0.03623188405797101
+B1,Polyethylenes,<50,200-300,fiber/filament,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,2,46,0.2,10,3.3333333333333335,6.666666666666666,0.14492753623188404
+B1,Polypropylene,50-100,50-100,fiber/filament,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,46,0.2,5,0,5,0.10869565217391304
+B1,Polyvinyl chlorides,<50,<50,fragment,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,46,0.2,5,0,5,0.10869565217391304
+B1,Rubber,<50,100-200,fiber/filament,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,46,0.2,5,0,5,0.10869565217391304
+B1,Rubber,<50,300-400,fiber/filament,H2O2,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,46,0.2,5,0,5,0.10869565217391304
+B2,Polyethylenes,<50,50-100,fiber/filament,H2O2,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,1,73,0.2,5,3.3333333333333335,1.6666666666666665,0.0228310502283105
+B2,Polypropylene,<50,300-400,fiber/filament,H2O2,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,1,73,0.2,5,0,5,0.0684931506849315
+B2,Rubber,<50,100-200,fiber/filament,H2O2,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,1,73,0.2,5,0,5,0.0684931506849315
+M1,Other plastic,50-100,50-100,fiber/filament,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+M1,Other plastic,50-100,<50,film,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M1,Other plastic,<50,100-200,fiber/filament,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+M1,Polyacrylamides,50-100,50-100,fragment,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M1,Polyethylenes,<50,100-200,fiber/filament,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,3.3333333333333335,6.666666666666666,0.14814814814814814
+M1,Polyterephthalates,50-100,50-100,film,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+M1,Rubber,<50,100-200,fiber/filament,H2O2,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M2,Polyamides (polylactams),100-200,200-300,film,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M2,Polyamides (polylactams),50-100,200-300,film,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M2,Polyamides (polylactams),50-100,50-100,film,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,9,45,0.5,18,0,18,0.4
+M2,Polypropylene,50-100,50-100,film,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,3,45,0.5,6,0,6,0.13333333333333333
+M2,Polypropylene,<50,100-200,fiber/filament,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M2,Polypropylene,<50,50-100,fiber/filament,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,3,45,0.5,6,0,6,0.13333333333333333
+M2,Rubber,100-200,200-300,film,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M2,Rubber,<50,100-200,fiber/filament,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,5,45,0.5,10,0,10,0.2222222222222222
+M2,Rubber,<50,300-400,fiber/filament,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M2,Rubber,<50,50-100,fiber/filament,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,41,45,0.5,82,0,82,1.8222222222222222
+M2,Rubber,<50,50-100,fragment,H2O2,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.5,2,0,2,0.044444444444444446
+M4,Other plastic,<50,600-700,fiber/filament,H2O2,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,1,42,0.2,5,3.3333333333333335,1.6666666666666665,0.03968253968253968
+M4,Polypropylene,50-100,<50,fiber/filament,H2O2,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,1,42,0.2,5,0,5,0.11904761904761904
+M4,Rubber,<50,100-200,fiber/filament,H2O2,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,1,42,0.2,5,0,5,0.11904761904761904
+M4,Rubber,<50,50-100,fragment,H2O2,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,1,42,0.2,5,0,5,0.11904761904761904
+M5,Other plastic,50-100,100-200,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Other plastic,50-100,50-100,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Other plastic,50-100,50-100,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,2,65,0.2,10,7.065590154895206,2.9344098451047937,0.045144766847766055
+M5,Other plastic,<50,100-200,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,5,65,0.2,25,3.3333333333333335,21.666666666666668,0.33333333333333337
+M5,Other plastic,<50,200-300,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,4,65,0.2,20,3.3333333333333335,16.666666666666668,0.25641025641025644
+M5,Other plastic,<50,50-100,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,12,65,0.2,60,3.3333333333333335,56.666666666666664,0.8717948717948718
+M5,Other plastic,<50,50-100,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Other plastic,<50,50-100,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,5,65,0.2,25,7.065590154895206,17.934409845104796,0.27591399761699686
+M5,Other plastic,<50,<50,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,5,65,0.2,25,3.3333333333333335,21.666666666666668,0.33333333333333337
+M5,Polycarbonates,<50,200-300,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,13,65,0.2,65,6.591166666666667,58.408833333333334,0.8985974358974359
+M5,Polycarbonates,<50,50-100,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,3,65,0.2,15,6.591166666666667,8.408833333333334,0.12936666666666669
+M5,Polyethylenes,100-200,100-200,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,3.3333333333333335,1.6666666666666665,0.02564102564102564
+M5,Polyethylenes,200-300,200-300,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Polyethylenes,50-100,100-200,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Polyethylenes,50-100,50-100,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,2,65,0.2,10,0,10,0.15384615384615385
+M5,Polyethylenes,50-100,50-100,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,2,65,0.2,10,3.3333333333333335,6.666666666666666,0.10256410256410256
+M5,Polyethylenes,<50,100-200,fiber/filament,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,3.3333333333333335,1.6666666666666665,0.02564102564102564
+M5,Polyethylenes,<50,50-100,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,2,65,0.2,10,3.3333333333333335,6.666666666666666,0.10256410256410256
+M5,Polyethylenes,<50,<50,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,3,65,0.2,15,3.3333333333333335,11.666666666666666,0.1794871794871795
+M5,Polystyrenes,100-200,100-200,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,3,65,0.2,15,5.206266666666667,9.793733333333332,0.1506728205128205
+M5,Polystyrenes,50-100,50-100,film,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,1,65,0.2,5,0,5,0.07692307692307693
+M5,Polystyrenes,<50,<50,fragment,H2O2,Mekong5_feb2122_HVS_T0.7_results.csv,7,65,0.2,35,5.206266666666667,29.793733333333332,0.4583651282051282
+M6,Other plastic,<50,100-200,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,3.3333333333333335,6.666666666666666,0.14814814814814814
+M6,Other plastic,<50,300-400,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,3.3333333333333335,6.666666666666666,0.14814814814814814
+M6,Other plastic,<50,50-100,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,3.3333333333333335,6.666666666666666,0.14814814814814814
+M6,Other plastic,<50,600-700,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+M6,Polypropylene,100-200,100-200,film,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M6,Polypropylene,100-200,200-300,fragment,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,6.111110282222029,3.888889717777971,0.08641977150617713
+M6,Polypropylene,200-300,100-200,film,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M6,Polypropylene,50-100,100-200,film,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M6,Polypropylene,50-100,50-100,fragment,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,6.111110282222029,3.888889717777971,0.08641977150617713
+M6,Polypropylene,<50,100-200,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,4,45,0.2,20,0,20,0.4444444444444444
+M6,Polypropylene,<50,50-100,fiber/filament,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,0,10,0.2222222222222222
+M6,Polypropylene,<50,<50,fragment,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,3,45,0.2,15,6.111110282222029,8.888889717777971,0.19753088261728824
+M6,Polypropylene,<50,<50,sphere/spheroid,H2O2,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,0,10,0.2222222222222222
+M7,Polypropylene,<50,200-300,fiber/filament,H2O2,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,1,33,0.2,5,0,5,0.15151515151515152
+M7,Polypropylene,<50,50-100,film,H2O2,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,1,33,0.2,5,0,5,0.15151515151515152
+M7,Polypropylene,<50,<50,fragment,H2O2,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,2,33,0.2,10,6.111110282222029,3.888889717777971,0.11784514296296882
+M8,Other plastic,50-100,50-100,film,H2O2,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M8,Polyethylenes,<50,<50,sphere/spheroid,H2O2,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M8,Polypropylene,<50,200-300,fiber/filament,H2O2,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,2,45,0.2,10,0,10,0.2222222222222222
+M8,Polypropylene,<50,<50,fiber/filament,H2O2,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+M9,Polycarbonates,,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,4,35,0.2,20,6.591166666666667,13.408833333333334,0.38310952380952384
+M9,Polycarbonates,,200-300,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,3,35,0.2,15,6.591166666666667,8.408833333333334,0.24025238095238097
+M9,Polycarbonates,,50-100,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,3,35,0.2,15,6.591166666666667,8.408833333333334,0.24025238095238097
+M9,Polycarbonates,50-100,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,6.591166666666667,3.408833333333333,0.09739523809523809
+M9,Polycarbonates,<50,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,6.591166666666667,3.408833333333333,0.09739523809523809
+M9,Polycarbonates,<50,50-100,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,6.591166666666667,3.408833333333333,0.09739523809523809
+M9,Polyethylenes,,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,3.3333333333333335,6.666666666666666,0.19047619047619047
+M9,Polypropylene,,200-300,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Polypropylene,100-200,100-200,film,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,0,10,0.2857142857142857
+M9,Polypropylene,50-100,100-200,fragment,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,6.111110282222029,3.888889717777971,0.11111113479365632
+M9,Polypropylene,50-100,50-100,fragment,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,2,35,0.2,10,6.111110282222029,3.888889717777971,0.11111113479365632
+M9,Polypropylene,<50,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Polypropylene,<50,200-300,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Polypropylene,<50,<50,fragment,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,3,35,0.2,15,6.111110282222029,8.888889717777971,0.25396827765079916
+M9,Rubber,,100-200,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Rubber,,200-300,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Rubber,,50-100,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M9,Rubber,<50,200-300,fiber/filament,H2O2,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+SS1,Other plastic,100-200,100-200,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,2,43,0.25,8,7.065590154895206,0.9344098451047937,0.02173046151406497
+SS1,Other plastic,100-200,200-300,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,3,43,0.25,12,7.065590154895206,4.934409845104794,0.11475371732801846
+SS1,Other plastic,50-100,100-200,film,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,1,43,0.25,4,0,4,0.09302325581395349
+SS1,Other plastic,50-100,100-200,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,10,43,0.25,40,7.065590154895206,32.934409845104796,0.7659165080256929
+SS1,Other plastic,50-100,200-300,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,2,43,0.25,8,7.065590154895206,0.9344098451047937,0.02173046151406497
+SS1,Other plastic,50-100,50-100,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,2,43,0.25,8,7.065590154895206,0.9344098451047937,0.02173046151406497
+SS1,Other plastic,50-100,50-100,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,99,43,0.25,396,7.065590154895206,388.93440984510477,9.044986275467553
+SS1,Other plastic,<50,200-300,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,12,43,0.25,48,3.3333333333333335,44.666666666666664,1.0387596899224805
+SS1,Other plastic,<50,300-400,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,1,43,0.25,4,3.3333333333333335,0.6666666666666665,0.015503875968992244
+SS1,Other plastic,<50,50-100,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,94,43,0.25,376,7.065590154895206,368.93440984510477,8.579869996397786
+SS1,Other plastic,<50,<50,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,2,43,0.25,8,7.065590154895206,0.9344098451047937,0.02173046151406497
+SS1,Other plastic,<50,<50,fragment,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,32,43,0.25,128,7.065590154895206,120.9344098451048,2.8124281359326697
+SS1,Polycarbonates,<50,200-300,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,18,43,0.25,72,6.591166666666667,65.40883333333333,1.5211356589147287
+SS1,Polyethylenes,<50,200-300,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,2,43,0.25,8,3.3333333333333335,4.666666666666666,0.10852713178294572
+SS1,Polyethylenes,<50,300-400,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,1,43,0.25,4,3.3333333333333335,0.6666666666666665,0.015503875968992244
+SS1,Polypropylene,50-100,>1000,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,1,43,0.25,4,0,4,0.09302325581395349
+SS1,Polyterephthalates,100-200,200-300,film,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,1,43,0.25,4,3.3333333333333335,0.6666666666666665,0.015503875968992244
+SS1,Polyterephthalates,50-100,100-200,film,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,1,43,0.25,4,3.3333333333333335,0.6666666666666665,0.015503875968992244
+SS1,Rubber,<50,100-200,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,1,43,0.25,4,0,4,0.09302325581395349
+SS1,Rubber,<50,200-300,fiber/filament,H2O2,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,5,43,0.25,20,0,20,0.46511627906976744
+M3,Other plastic,50-100,50-100,film,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,0,10,0.2857142857142857
+M3,Other plastic,<50,200-300,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,6,35,0.2,30,3.3333333333333335,26.666666666666668,0.761904761904762
+M3,Other plastic,<50,50-100,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,3.3333333333333335,6.666666666666666,0.19047619047619047
+M3,Other plastic,<50,50-100,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,7.065590154895206,2.9344098451047937,0.0838402812887084
+M3,Other plastic,<50,<50,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,1,35,0.2,5,3.3333333333333335,1.6666666666666665,0.047619047619047616
+M3,Polycarbonates,<50,100-200,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,6.591166666666667,3.408833333333333,0.09739523809523809
+M3,Polycarbonates,<50,200-300,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,6.591166666666667,3.408833333333333,0.09739523809523809
+M3,Polycarbonates,<50,300-400,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,5,35,0.2,25,6.591166666666667,18.408833333333334,0.5259666666666667
+M3,Polycarbonates,<50,<50,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,6,35,0.2,30,22.440990241768525,7.5590097582314755,0.21597170737804217
+M3,Polyethylenes,50-100,200-300,film,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,1,35,0.2,5,0,5,0.14285714285714285
+M3,Polyethylenes,50-100,50-100,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,1,35,0.2,5,3.3333333333333335,1.6666666666666665,0.047619047619047616
+M3,Polyethylenes,<50,<50,fiber/filament,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,1,35,0.2,5,3.3333333333333335,1.6666666666666665,0.047619047619047616
+M3,Polystyrenes,<50,50-100,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,2,35,0.2,10,5.206266666666667,4.793733333333333,0.13696380952380952
+M3,Polystyrenes,<50,<50,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,5,35,0.2,25,5.206266666666667,19.793733333333332,0.5655352380952381
+M3,Polyterephthalates,50-100,100-200,film,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,1,35,0.2,5,3.3333333333333335,1.6666666666666665,0.047619047619047616
+M3,Polyterephthalates,50-100,50-100,fragment,DS,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,6,35,0.2,30,12.780761734330227,17.219238265669773,0.49197823616199354
+SK1,Other plastic,50-100,100-200,film,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,1,45,0.2,5,0,5,0.1111111111111111
+SK1,Other plastic,50-100,50-100,fragment,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,2,45,0.2,10,7.065590154895206,2.9344098451047937,0.06520910766899542
+SK1,Other plastic,<50,50-100,fiber/filament,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+SK1,Other plastic,<50,50-100,fragment,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,6,45,0.2,30,7.065590154895206,22.934409845104796,0.5096535521134399
+SK1,Other plastic,<50,<50,fragment,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,19,45,0.2,95,7.065590154895206,87.9344098451048,1.9540979965578844
+SK1,Polycarbonates,<50,100-200,fiber/filament,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,2,45,0.2,10,6.591166666666667,3.408833333333333,0.07575185185185185
+SK1,Polyethylenes,50-100,100-200,fiber/filament,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,1,45,0.2,5,3.3333333333333335,1.6666666666666665,0.037037037037037035
+SK1,Polyethylenes,<50,50-100,fragment,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,4,45,0.2,20,3.3333333333333335,16.666666666666668,0.3703703703703704
+SK1,Polystyrenes,50-100,100-200,fragment,DS,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,2,45,0.2,10,5.206266666666667,4.793733333333333,0.1065274074074074

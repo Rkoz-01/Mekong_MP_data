@@ -1,0 +1,138 @@
+﻿site,length,key,Province,District,WC_acces,WC_access_percent,pop
+B1,2,B1_2,Kândal,Kien Svay,0.39,0.0039,39.83
+B1,2,B1_2,Phnom Penh,Mean Chey,70.62,0.7062,11355.61
+B1,2,B1_2,Phnom Penh,Phnom Penh,100,1,16363.86
+B1,5,B1_5,Kândal,Khsach Kandal,0,0,1167.98
+B1,5,B1_5,Kândal,Kien Svay,0.39,0.0039,39.83
+B1,5,B1_5,Kândal,Lvea Aem,0,0,3278.12
+B1,5,B1_5,Phnom Penh,Mean Chey,70.62,0.7062,11472.66
+B1,5,B1_5,Phnom Penh,Phnom Penh,100,1,53620.55
+B1,5,B1_5,Phnom Penh,Ruessei Kaev,71.79,0.7179,3629.3
+B1,10,B1_10,Kândal,Khsach Kandal,0,0,12570.09
+B1,10,B1_10,Kândal,Kien Svay,0.39,0.0039,39.83
+B1,10,B1_10,Kândal,Lvea Aem,0,0,3278.12
+B1,10,B1_10,Kândal,Mukh Kampul,0,0,43.53
+B1,10,B1_10,Phnom Penh,Mean Chey,70.62,0.7062,11472.66
+B1,10,B1_10,Phnom Penh,Phnom Penh,100,1,72992.16
+B1,10,B1_10,Phnom Penh,Ruessei Kaev,71.79,0.7179,90633.02
+B1,20,B1_20,Kândal,Khsach Kandal,0,0,29836.7
+B1,20,B1_20,Kândal,Kien Svay,0.39,0.0039,39.83
+B1,20,B1_20,Kândal,Lvea Aem,0,0,3278.12
+B1,20,B1_20,Kândal,Lvea Aem,0,0,3278.12
+B1,20,B1_20,Kândal,Mukh Kampul,0,0,14606.16
+B1,20,B1_20,Kândal,Ponhea Lueu,2.64,0.0264,12466.33
+B1,20,B1_20,Phnom Penh,Mean Chey,70.62,0.7062,11472.66
+B1,20,B1_20,Phnom Penh,Phnom Penh,100,1,72992.16
+B1,20,B1_20,Phnom Penh,Ruessei Kaev,71.79,0.7179,158339.89
+B2,2,B2_2,Kândal,Kaoh Thum,0.66,0.0066,6382.64
+B2,5,B2_5,Kândal,Kaoh Thum,0.66,0.0066,16487.34
+B2,10,B2_10,Kândal,Kaoh Thum,0.66,0.0066,36755.63
+B2,20,B2_20,Kândal,Kaoh Thum,0.66,0.0066,67034.55
+M7,5,M7_5,Kândal,Khsach Kandal,0,0,6135.29
+M7,5,M7_5,Kândal,Lvea Aem,0,0,660.95
+M7,5,M7_5,Phnom Penh,Phnom Penh,100,1,40914.94
+M7,5,M7_5,Phnom Penh,Ruessei Kaev,71.79,0.7179,64094.56
+M8,20,M8_20,Kândal,Khsach Kandal,0,0,26544.32
+M8,20,M8_20,Kândal,Kien Svay,0.39,0.0039,12942.03
+M8,20,M8_20,Kândal,Lvea Aem,0,0,8055.23
+M8,20,M8_20,Kândal,Mukh Kampul,0,0,8788.3
+M8,20,M8_20,Phnom Penh,Mean Chey,70.62,0.7062,8253.77
+M8,20,M8_20,Phnom Penh,Phnom Penh,100,1,69549.92
+M8,20,M8_20,Phnom Penh,Ruessei Kaev,71.79,0.7179,156897.85
+M1,2,M1_2,Stœng Trêng,Thala Barivat,0,0,472.67
+M1,5,M1_5,Stœng Trêng,Thala Barivat,0,0,696.01
+M1,10,M1_10,Stœng Trêng,Thala Barivat,0,0,2033
+M1,20,M1_20,Stœng Trêng,Thala Barivat,0,0,10827
+M2,2,M2_2,Stœng Trêng,Siem Bouk,2.22,0.0222,284.22
+M2,2,M2_2,Stœng Trêng,Stueng Traeng,21.44,0.2144,125.16
+M2,5,M2_5,Stœng Trêng,Siem Bouk,2.22,0.0222,796.27
+M2,5,M2_5,Stœng Trêng,Stueng Traeng,21.44,0.2144,246.53
+M2,5,M2_5,Stœng Trêng,Thala Barivat,0,0,92.48
+M2,10,M2_10,Stœng Trêng,Siem Bouk,2.22,0.0222,796.27
+M2,10,M2_10,Stœng Trêng,Stueng Traeng,21.44,0.2144,5388.37
+M2,10,M2_10,Stœng Trêng,Thala Barivat,0,0,2482.19
+M2,20,M2_20,Stœng Trêng,Sesan,0,0,4607.72
+M2,20,M2_20,Stœng Trêng,Siem Bouk,2.22,0.0222,796.27
+M2,20,M2_20,Stœng Trêng,Stueng Traeng,21.44,0.2144,19834.85
+M2,20,M2_20,Stœng Trêng,Thala Barivat,0,0,4593.32
+M3,2,M3_2,Krâchéh,Sambour,0.04,0.0004,1174.45
+M3,5,M3_5,Krâchéh,Sambour,0.04,0.0004,3260.21
+M3,10,M3_10,Krâchéh,Sambour,0.04,0.0004,4293.47
+M3,20,M3_20,Krâchéh,Sambour,0.04,0.0004,5295.49
+M4,2,M4_2,Krâchéh,Kracheh,9.58,0.0958,672.39
+M4,2,M4_2,Krâchéh,Preaek Prasab,0.43,0.0043,555.74
+M4,5,M4_5,Krâchéh,Kracheh,9.58,0.0958,1821.72
+M4,5,M4_5,Krâchéh,Preaek Prasab,0.43,0.0043,1265.85
+M4,5,M4_5,Krâchéh,Sambour,0.04,0.0004,263.93
+M4,10,M4_10,Krâchéh,Kracheh,9.58,0.0958,2032.75
+M4,10,M4_10,Krâchéh,Preaek Prasab,0.43,0.0043,1265.85
+M4,10,M4_10,Krâchéh,Sambour,0.04,0.0004,3710.28
+M4,20,M4_20,Krâchéh,Kracheh,9.58,0.0958,2032.75
+M4,20,M4_20,Krâchéh,Preaek Prasab,0.43,0.0043,1265.85
+M4,20,M4_20,Krâchéh,Sambour,0.04,0.0004,9532.7
+M5,2,M5_2,Krâchéh,Kracheh,9.58,0.0958,2265.24
+M5,2,M5_2,Krâchéh,Preaek Prasab,0.43,0.0043,790.04
+M5,5,M5_5,Krâchéh,Kracheh,9.58,0.0958,11706.5
+M5,5,M5_5,Krâchéh,Preaek Prasab,0.43,0.0043,1956.54
+M5,10,M5_10,Krâchéh,Kracheh,9.58,0.0958,15118.85
+M5,10,M5_10,Krâchéh,Preaek Prasab,0.43,0.0043,4890.93
+M5,20,M5_20,Krâchéh,Kracheh,9.58,0.0958,20201.48
+M5,20,M5_20,Krâchéh,Preaek Prasab,0.43,0.0043,8330.33
+M6,2,M6_2,Kâmpóng Cham,Kampong Cham,0,0,20233.51
+M6,2,M6_2,Tbong Khmum,Tboung Khmum,0,0,2035.62
+M6,5,M6_5,Kâmpóng Cham,Kampong Cham,0,0,31444.28
+M6,5,M6_5,Tbong Khmum,Kampong Siem,0,0,3821.02
+M6,5,M6_5,Tbong Khmum,Tboung Khmum,0,0,3374.82
+M6,10,M6_10,Kâmpóng Cham,Kampong Cham,0,0,31444.28
+M6,10,M6_10,Kâmpóng Cham,Kampong Siem,0,0,5716.54
+M6,10,M6_10,Tbong Khmum,Tboung Khmum,0,0,3423.31
+M6,10,M6_10,Tbong Khmum,Tboung Khmum,0,0,3423.31
+M6,20,M6_20,Kâmpóng Cham,Kampong Cham,0,0,31444.28
+M6,20,M6_20,Kâmpóng Cham,Kampong Siem,0,0,13952.21
+M6,20,M6_20,Tbong Khmum,Krouch Chhmar,0,0,2677.11
+M6,20,M6_20,Tbong Khmum,Tboung Khmum,0,0,3434.59
+M7,2,M7_2,Kândal,Khsach Kandal,0,0,2084.87
+M7,2,M7_2,Kândal,Lvea Aem,0,0,660.95
+M7,2,M7_2,Phnom Penh,Phnom Penh,100,1,32198.59
+M7,2,M7_2,Phnom Penh,Ruessei Kaev,71.79,0.7179,8286.64
+M7,10,M7_10,Kândal,Khsach Kandal,0,0,19882.16
+M7,10,M7_10,Kândal,Lvea Aem,0,0,660.95
+M7,10,M7_10,Kândal,Mukh Kampul,0,0,1435.78
+M7,10,M7_10,Phnom Penh,Phnom Penh,100,1,40914.94
+M7,10,M7_10,Phnom Penh,Ruessei Kaev,71.79,0.7179,82950.79
+M7,20,M7_20,Kândal,Khsach Kandal,0,0,35082.55
+M7,20,M7_20,Kândal,Lvea Aem,0,0,660.95
+M7,20,M7_20,Kândal,Mukh Kampul,0,0,24833.99
+M7,20,M7_20,Phnom Penh,Phnom Penh,100,1,40914.94
+M7,20,M7_20,Phnom Penh,Ruessei Kaev,71.79,0.7179,86865.96
+M8,2,M8_2,Kândal,Kien Svay,0.39,0.0039,6453.68
+M8,2,M8_2,Kândal,Lvea Aem,0,0,2482.71
+M8,5,M8_5,Kândal,Kien Svay,0.39,0.0039,12942.03
+M8,5,M8_5,Kândal,Lvea Aem,0,0,5203.39
+M8,5,M8_5,Phnom Penh,Mean Chey,70.62,0.7062,4056.85
+M8,10,M8_10,Kândal,Khsach Kandal,0,0,3583.97
+M8,10,M8_10,Kândal,Kien Svay,0.39,0.0039,12942.03
+M8,10,M8_10,Kândal,Lvea Aem,0,0,8055.23
+M8,10,M8_10,Phnom Penh,Mean Chey,70.62,0.7062,8253.77
+M8,10,M8_10,Phnom Penh,Phnom Penh,100,1,69549.92
+M8,10,M8_10,Phnom Penh,Ruessei Kaev,71.79,0.7179,47823.34
+M9,2,M9_2,Kândal,Leuk Daek,0.39,0.0039,755.25
+M9,2,M9_2,Prey Vêng,Peam Chor,0,0,909.51
+M9,5,M9_5,Kândal,Leuk Daek,0.39,0.0039,2705.75
+M9,5,M9_5,Prey Vêng,Peam Chor,0,0,2891.29
+M9,10,M9_10,Kândal,Leuk Daek,0.39,0.0039,5515.2
+M9,10,M9_10,Prey Vêng,Peam Chor,0,0,5619.44
+M9,20,M9_20,Kândal,Leuk Daek,0.39,0.0039,11954.55
+M9,20,M9_20,Prey Vêng,Peam Chor,0,0,11338.43
+SK1,2,SK1_2,Stœng Trêng,Sesan,0,0,164.34
+SK1,2,SK1_2,Stœng Trêng,Stueng Traeng,21.44,0.2144,20.38
+SK1,5,SK1_5,Stœng Trêng,Sesan,0,0,1021.63
+SK1,5,SK1_5,Stœng Trêng,Stueng Traeng,21.44,0.2144,50.95
+SK1,10,SK1_10,Stœng Trêng,Sesan,0,0,1082.25
+SK1,10,SK1_10,Stœng Trêng,Stueng Traeng,21.44,0.2144,50.95
+SK1,20,SK1_20,Stœng Trêng,Sesan,0,0,1272.76
+SK1,20,SK1_20,Stœng Trêng,Stueng Traeng,21.44,0.2144,50.95
+SS1,2,SS1_2,Stœng Trêng,Sesan,0,0,179.66
+SS1,5,SS1_5,Stœng Trêng,Sesan,0,0,341.13
+SS1,10,SS1_10,Stœng Trêng,Sesan,0,0,644.69
+SS1,20,SS1_20,Stœng Trêng,Sesan,0,0,875.52

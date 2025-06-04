@@ -1,0 +1,136 @@
+color,filename,plastic_or_not,N,site
+black,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,not plastic,4,B2
+brown,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,not plastic,77,B2
+translucent,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,not plastic,29,B2
+white,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,not plastic,14,B2
+black,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,6,B1
+brown,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,21,B1
+multi,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,4,B1
+translucent,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,178,B1
+white,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,8,B1
+black,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,11,M3
+brown,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,523,M3
+gold,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,6,M3
+green,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,2,M3
+purple,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,1,M3
+red,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,10,M3
+silver,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,2,M3
+translucent,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,327,M3
+white,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,not plastic,143,M3
+brown,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,not plastic,34,M7
+translucent,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,not plastic,161,M7
+brown,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,72,M8
+translucent,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,60,M8
+white,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,14,M8
+yellow,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,5,M8
+,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,2,M9
+black,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,2,M9
+brown,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,116,M9
+multi,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,3,M9
+purple,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,2,M9
+translucent,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,157,M9
+white,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,not plastic,10,M9
+,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,2,M6
+black,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,7,M6
+blue,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,2,M6
+brown,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,46,M6
+multi,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,7,M6
+red,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,1,M6
+translucent,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,197,M6
+white,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,13,M6
+,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,1,M5
+black,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,12,M5
+blue,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,1,M5
+brown,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,642,M5
+gold,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,1,M5
+multi,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,3,M5
+translucent,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,933,M5
+white,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,38,M5
+yellow,Mekong5_feb2122_HVS_T0.7_results.csv,not plastic,1,M5
+black,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,3,M1
+brown,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,78,M1
+green,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,1,M1
+translucent,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,92,M1
+white,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,11,M1
+yellow,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,2,M1
+black,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,1,M4
+brown,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,83,M4
+translucent,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,57,M4
+white,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,3,M4
+black,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,7,M2
+blue,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,3,M2
+brown,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,52,M2
+green,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,5,M2
+multi,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,6,M2
+translucent,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,354,M2
+white,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,not plastic,15,M2
+black,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,not plastic,10,SK1
+brown,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,not plastic,296,SK1
+translucent,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,not plastic,125,SK1
+white,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,not plastic,32,SK1
+yellow,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,not plastic,1,SK1
+black,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,18,SS1
+blue,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,1,SS1
+brown,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,173,SS1
+green,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,1,SS1
+translucent,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,710,SS1
+white,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,not plastic,21,SS1
+black,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,5,SS1
+brown,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,361,SS1
+gold,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,1,SS1
+green,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,2,SS1
+multi,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,2,SS1
+translucent,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,896,SS1
+white,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,not plastic,11,SS1
+brown,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,plastic,15,B2
+translucent,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,plastic,6,B2
+white,Bassac1_Feb1822_HVS_100um_T0.7_results.csv,plastic,3,B2
+black,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,2,B1
+blue,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,1,B1
+brown,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,9,B1
+translucent,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,58,B1
+white,Bassac2_Feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,7,B1
+black,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,plastic,2,M3
+brown,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,plastic,33,M3
+translucent,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,plastic,28,M3
+white,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,plastic,10,M3
+yellow,Mekong_7_Feb2222_HVS_100um_1_derivative_T0.7_results.csv,plastic,1,M3
+brown,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,plastic,24,M7
+translucent,mekong1_Feb1522_HVS_100um_01_derivative_beta_T0.7_results.csv,plastic,81,M7
+brown,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,30,M8
+translucent,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,10,M8
+white,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,4,M8
+yellow,mekong2_feb1922_HVS_100um_derivative_beta_T0.7_results.csv,plastic,3,M8
+black,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,plastic,2,M9
+brown,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,plastic,30,M9
+multi,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,plastic,1,M9
+translucent,mekong3_feb1922_HVS_100um_1_derivative_beta_T0.7_results.csv,plastic,23,M9
+black,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,7,M6
+brown,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,14,M6
+multi,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,1,M6
+red,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,1,M6
+translucent,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,40,M6
+white,Mekong4_Feb2022_HVS_100um_derivative_beta_T0.7_results.csv,plastic,11,M6
+brown,Mekong5_feb2122_HVS_T0.7_results.csv,plastic,30,M5
+translucent,Mekong5_feb2122_HVS_T0.7_results.csv,plastic,112,M5
+white,Mekong5_feb2122_HVS_T0.7_results.csv,plastic,12,M5
+brown,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,plastic,18,M1
+translucent,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,plastic,33,M1
+yellow,Results_Mekong10_Feb22_HVS_100um_derivative_beta_T0.7_results.csv,plastic,2,M1
+brown,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,plastic,6,M4
+translucent,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,plastic,4,M4
+white,Results_Mekong6_Feb2222_HVS_100um_derivative_beta_T0.7_results.csv,plastic,1,M4
+brown,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,plastic,13,M2
+multi,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,plastic,6,M2
+translucent,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,plastic,72,M2
+white,Results_Mekong8_Feb2422_HVS_100um_derivative_beta_T0.7_results.csv,plastic,9,M2
+brown,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,plastic,39,SK1
+translucent,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,plastic,11,SK1
+white,Sekong1_Feb2422_HVS_100um_1_derivative_T0.7_results.csv,plastic,4,SK1
+brown,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,plastic,20,SS1
+translucent,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,plastic,72,SS1
+white,Sesan1_Feb2422_HVS_100um_1_A_derivative_beta_T0.7_results.csv,plastic,2,SS1
+brown,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,plastic,128,SS1
+gold,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,plastic,2,SS1
+translucent,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,plastic,32,SS1
+white,Sesan1_Feb2422_HVS_100um_1_B_derivative_beta_T0.7_results.csv,plastic,4,SS1

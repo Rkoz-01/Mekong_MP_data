@@ -1,0 +1,506 @@
+﻿site,length,key,sqr_km,ISO,Province,District,WC_acces
+B1,2,B1_2,0.193631004,KHM,Kândal,Kien Svay,92
+B1,2,B1_2,0.839040881,KHM,Phnom Penh,Mean Chey,92
+B1,2,B1_2,1.525433223,KHM,Phnom Penh,Mean Chey,92
+B1,2,B1_2,2.581590058,KHM,Phnom Penh,Mean Chey,92
+B1,2,B1_2,0.445557399,KHM,Phnom Penh,Phnom Penh,92
+B1,2,B1_2,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+B1,5,B1_5,1.69317249,KHM,Kândal,Khsach Kandal,92
+B1,5,B1_5,0.069055202,KHM,Kândal,Kien Svay,92
+B1,5,B1_5,0.193631004,KHM,Kândal,Kien Svay,92
+B1,5,B1_5,2.605865519,KHM,Kândal,Lvea Aem,0
+B1,5,B1_5,1.080546721,KHM,Kândal,Lvea Aem,0
+B1,5,B1_5,0.874187733,KHM,Kândal,Lvea Aem,0
+B1,5,B1_5,0.839040881,KHM,Phnom Penh,Mean Chey,92
+B1,5,B1_5,0.564354241,KHM,Phnom Penh,Mean Chey,92
+B1,5,B1_5,0.220008972,KHM,Phnom Penh,Mean Chey,92
+B1,5,B1_5,1.525433223,KHM,Phnom Penh,Mean Chey,92
+B1,5,B1_5,2.581590058,KHM,Phnom Penh,Mean Chey,92
+B1,5,B1_5,0.445557399,KHM,Phnom Penh,Phnom Penh,92
+B1,5,B1_5,0.940467428,KHM,Phnom Penh,Phnom Penh,92
+B1,5,B1_5,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+B1,5,B1_5,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+B1,5,B1_5,0.882393191,KHM,Phnom Penh,Ruessei Kaev,92
+B1,5,B1_5,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,5.387004657,KHM,Kândal,Khsach Kandal,92
+B1,10,B1_10,3.392350007,KHM,Kândal,Khsach Kandal,92
+B1,10,B1_10,2.282837914,KHM,Kândal,Khsach Kandal,92
+B1,10,B1_10,1.525415902,KHM,Kândal,Khsach Kandal,92
+B1,10,B1_10,1.69317249,KHM,Kândal,Khsach Kandal,92
+B1,10,B1_10,0.069055202,KHM,Kândal,Kien Svay,92
+B1,10,B1_10,0.193631004,KHM,Kândal,Kien Svay,92
+B1,10,B1_10,2.605865519,KHM,Kândal,Lvea Aem,0
+B1,10,B1_10,1.080546721,KHM,Kândal,Lvea Aem,0
+B1,10,B1_10,0.874187733,KHM,Kândal,Lvea Aem,0
+B1,10,B1_10,0.409462223,KHM,Kândal,Mukh Kampul,92
+B1,10,B1_10,0.839040881,KHM,Phnom Penh,Mean Chey,92
+B1,10,B1_10,0.564354241,KHM,Phnom Penh,Mean Chey,92
+B1,10,B1_10,0.220008972,KHM,Phnom Penh,Mean Chey,92
+B1,10,B1_10,1.525433223,KHM,Phnom Penh,Mean Chey,92
+B1,10,B1_10,2.581590058,KHM,Phnom Penh,Mean Chey,92
+B1,10,B1_10,0.445557399,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,0.940467428,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+B1,10,B1_10,0.019202733,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,4.115845148,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,0.076834156,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,3.718566581,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,0.882393191,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+B1,10,B1_10,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,4.029320593,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,6.588506211,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,4.984728285,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,5.387004657,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,3.392350007,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,2.282837914,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,1.525415902,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,1.69317249,KHM,Kândal,Khsach Kandal,92
+B1,20,B1_20,0.069055202,KHM,Kândal,Kien Svay,92
+B1,20,B1_20,0.193631004,KHM,Kândal,Kien Svay,92
+B1,20,B1_20,2.605865519,KHM,Kândal,Lvea Aem,0
+B1,20,B1_20,1.080546721,KHM,Kândal,Lvea Aem,0
+B1,20,B1_20,0.874187733,KHM,Kândal,Lvea Aem,0
+B1,20,B1_20,0.013184155,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,10.68752216,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,3.47833108,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,13.44466954,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,3.84968049,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,0.409462223,KHM,Kândal,Mukh Kampul,92
+B1,20,B1_20,0.172414782,KHM,Kândal,Ponhea Lueu,2.64
+B1,20,B1_20,10.00358625,KHM,Kândal,Ponhea Lueu,2.64
+B1,20,B1_20,0.839040881,KHM,Phnom Penh,Mean Chey,92
+B1,20,B1_20,0.564354241,KHM,Phnom Penh,Mean Chey,92
+B1,20,B1_20,0.220008972,KHM,Phnom Penh,Mean Chey,92
+B1,20,B1_20,1.525433223,KHM,Phnom Penh,Mean Chey,92
+B1,20,B1_20,2.581590058,KHM,Phnom Penh,Mean Chey,92
+B1,20,B1_20,0.445557399,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,0.940467428,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+B1,20,B1_20,0.010590015,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,2.442639529,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.081923443,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.000105818,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,3.296151271,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,19.51024629,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.019202733,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.256953409,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,6.222029437,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,4.115845148,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.076834156,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,3.718566581,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,0.882393191,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+B1,20,B1_20,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+B2,2,B2_2,7.807450131,KHM,Kândal,Kaoh Thum,0.66
+B2,5,B2_5,11.54141814,KHM,Kândal,Kaoh Thum,0.66
+B2,5,B2_5,7.807450131,KHM,Kândal,Kaoh Thum,0.66
+B2,10,B2_10,21.20177193,KHM,Kândal,Kaoh Thum,0.66
+B2,10,B2_10,11.54141814,KHM,Kândal,Kaoh Thum,0.66
+B2,10,B2_10,7.807450131,KHM,Kândal,Kaoh Thum,0.66
+B2,20,B2_20,38.51317013,KHM,Kândal,Kaoh Thum,0.66
+B2,20,B2_20,21.20177193,KHM,Kândal,Kaoh Thum,0.66
+B2,20,B2_20,11.54141814,KHM,Kândal,Kaoh Thum,0.66
+B2,20,B2_20,7.807450131,KHM,Kândal,Kaoh Thum,0.66
+M7,5,M_5,3.392350007,KHM,Kândal,Khsach Kandal,92
+M7,5,M_5,2.282837914,KHM,Kândal,Khsach Kandal,92
+M7,5,M_5,1.525415902,KHM,Kândal,Khsach Kandal,92
+M7,5,M_5,1.69317249,KHM,Kândal,Khsach Kandal,92
+M7,5,M_5,0.874187733,KHM,Kândal,Lvea Aem,92
+M7,5,M_5,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+M7,5,M_5,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M7,5,M_5,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M7,5,M_5,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+M7,5,M_5,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+M7,5,M_5,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M7,5,M_5,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,6.588506211,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,4.984728285,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,5.387004657,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,3.392350007,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,2.282837914,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,1.525415902,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,1.69317249,KHM,Kândal,Khsach Kandal,92
+M8,20,M_20,3.605427532,KHM,Kândal,Kien Svay,92
+M8,20,M_20,3.114138744,KHM,Kândal,Kien Svay,92
+M8,20,M_20,0.069055202,KHM,Kândal,Kien Svay,92
+M8,20,M_20,0.193631004,KHM,Kândal,Kien Svay,92
+M8,20,M_20,0.000155508,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,3.829807775,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,4.699623596,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,2.605865519,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,1.080546721,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,0.874187733,KHM,Kândal,Lvea Aem,0
+M8,20,M_20,13.44466954,KHM,Kândal,Mukh Kampul,92
+M8,20,M_20,3.84968049,KHM,Kândal,Mukh Kampul,92
+M8,20,M_20,0.409462223,KHM,Kândal,Mukh Kampul,92
+M8,20,M_20,0.273827307,KHM,Phnom Penh,Mean Chey,92
+M8,20,M_20,0.564354241,KHM,Phnom Penh,Mean Chey,92
+M8,20,M_20,0.220008972,KHM,Phnom Penh,Mean Chey,92
+M8,20,M_20,1.525433223,KHM,Phnom Penh,Mean Chey,92
+M8,20,M_20,2.581590058,KHM,Phnom Penh,Mean Chey,92
+M8,20,M_20,0.940467428,KHM,Phnom Penh,Phnom Penh,92
+M8,20,M_20,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+M8,20,M_20,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+M8,20,M_20,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M8,20,M_20,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M8,20,M_20,0.081923443,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,3.296151271,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,19.51024629,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,0.019202733,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,0.256953409,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,6.222029437,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,4.115845148,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,0.076834156,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,3.718566581,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,0.882393191,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M8,20,M_20,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M1,2,M1_2,1.941513965,KHM,Stœng Trêng,Thala Barivat,0
+M1,5,M1_5,0.069447475,KHM,Preah Vihéar,Chhaeb,0
+M1,5,M1_5,0.730172994,KHM,Stœng Trêng,Thala Barivat,0
+M1,5,M1_5,1.941513965,KHM,Stœng Trêng,Thala Barivat,0
+M1,10,M1_10,0.083955577,KHM,Preah Vihéar,Chhaeb,0
+M1,10,M1_10,0.069447475,KHM,Preah Vihéar,Chhaeb,0
+M1,10,M1_10,0.730172994,KHM,Stœng Trêng,Thala Barivat,0
+M1,10,M1_10,1.941513965,KHM,Stœng Trêng,Thala Barivat,0
+M1,20,M1_20,0.083955577,KHM,Preah Vihéar,Chhaeb,0
+M1,20,M1_20,0.069447475,KHM,Preah Vihéar,Chhaeb,0
+M1,20,M1_20,0.730172994,KHM,Stœng Trêng,Thala Barivat,0
+M1,20,M1_20,1.941513965,KHM,Stœng Trêng,Thala Barivat,0
+M2,2,M2_2,4.027441259,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,2,M2_2,4.252048765,KHM,Stœng Trêng,Stueng Traeng,34
+M2,5,M2_5,5.228791993,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,5,M2_5,4.027441259,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,5,M2_5,5.747120838,KHM,Stœng Trêng,Stueng Traeng,34
+M2,5,M2_5,4.252048765,KHM,Stœng Trêng,Stueng Traeng,34
+M2,5,M2_5,0.888929953,KHM,Stœng Trêng,Thala Barivat,0
+M2,10,M2_10,0.581560981,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,10,M2_10,5.228791993,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,10,M2_10,4.027441259,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,10,M2_10,10.92408011,KHM,Stœng Trêng,Stueng Traeng,34
+M2,10,M2_10,5.747120838,KHM,Stœng Trêng,Stueng Traeng,34
+M2,10,M2_10,4.252048765,KHM,Stœng Trêng,Stueng Traeng,34
+M2,10,M2_10,14.05525148,KHM,Stœng Trêng,Thala Barivat,0
+M2,10,M2_10,0.888929953,KHM,Stœng Trêng,Thala Barivat,0
+M2,20,M2_20,38.31986459,KHM,Stœng Trêng,Sesan,0
+M2,20,M2_20,0.581560981,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,20,M2_20,5.228791993,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,20,M2_20,4.027441259,KHM,Stœng Trêng,Siem Bouk,2.22
+M2,20,M2_20,57.16000844,KHM,Stœng Trêng,Stueng Traeng,34
+M2,20,M2_20,10.92408011,KHM,Stœng Trêng,Stueng Traeng,34
+M2,20,M2_20,5.747120838,KHM,Stœng Trêng,Stueng Traeng,34
+M2,20,M2_20,4.252048765,KHM,Stœng Trêng,Stueng Traeng,34
+M2,20,M2_20,17.12085763,KHM,Stœng Trêng,Thala Barivat,0
+M2,20,M2_20,14.05525148,KHM,Stœng Trêng,Thala Barivat,0
+M2,20,M2_20,0.888929953,KHM,Stœng Trêng,Thala Barivat,0
+M3,2,M3_2,7.529389604,KHM,Krâchéh,Sambour,0.04
+M3,5,M3_5,13.26821615,KHM,Krâchéh,Sambour,0.04
+M3,5,M3_5,13.26821615,KHM,Krâchéh,Sambour,0.04
+M3,5,M3_5,7.529389604,KHM,Krâchéh,Sambour,0.04
+M3,5,M3_5,7.529389604,KHM,Krâchéh,Sambour,0.04
+M3,10,M3_10,20.3384031,KHM,Krâchéh,Sambour,0.04
+M3,10,M3_10,13.26821615,KHM,Krâchéh,Sambour,0.04
+M3,10,M3_10,7.529389604,KHM,Krâchéh,Sambour,0.04
+M3,20,M3_20,43.30250288,KHM,Krâchéh,Sambour,0.04
+M3,20,M3_20,20.3384031,KHM,Krâchéh,Sambour,0.04
+M3,20,M3_20,13.26821615,KHM,Krâchéh,Sambour,0.04
+M3,20,M3_20,7.529389604,KHM,Krâchéh,Sambour,0.04
+M4,2,M4_2,5.695318991,KHM,Krâchéh,Kracheh,40
+M4,2,M4_2,4.58487789,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,5.848042732,KHM,Krâchéh,Kracheh,40
+M4,5,M4_5,5.848042732,KHM,Krâchéh,Kracheh,40
+M4,5,M4_5,1.970989501,KHM,Krâchéh,Kracheh,40
+M4,5,M4_5,1.970989501,KHM,Krâchéh,Kracheh,40
+M4,5,M4_5,5.695318991,KHM,Krâchéh,Kracheh,40
+M4,5,M4_5,2.667117196,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,2.667117196,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,1.513012597,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,1.513012597,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,4.58487789,KHM,Krâchéh,Preaek Prasab,0.43
+M4,5,M4_5,3.198598988,KHM,Krâchéh,Sambour,0.04
+M4,5,M4_5,3.198598988,KHM,Krâchéh,Sambour,0.04
+M4,10,M4_10,1.673840219,KHM,Krâchéh,Kracheh,40
+M4,10,M4_10,5.848042732,KHM,Krâchéh,Kracheh,40
+M4,10,M4_10,1.970989501,KHM,Krâchéh,Kracheh,40
+M4,10,M4_10,5.695318991,KHM,Krâchéh,Kracheh,40
+M4,10,M4_10,2.667117196,KHM,Krâchéh,Preaek Prasab,0.43
+M4,10,M4_10,1.513012597,KHM,Krâchéh,Preaek Prasab,0.43
+M4,10,M4_10,4.58487789,KHM,Krâchéh,Preaek Prasab,0.43
+M4,10,M4_10,18.03776436,KHM,Krâchéh,Sambour,0.04
+M4,10,M4_10,3.198598988,KHM,Krâchéh,Sambour,0.04
+M4,20,M4_20,1.673840219,KHM,Krâchéh,Kracheh,40
+M4,20,M4_20,5.848042732,KHM,Krâchéh,Kracheh,40
+M4,20,M4_20,1.970989501,KHM,Krâchéh,Kracheh,40
+M4,20,M4_20,5.695318991,KHM,Krâchéh,Kracheh,40
+M4,20,M4_20,2.667117196,KHM,Krâchéh,Preaek Prasab,0.43
+M4,20,M4_20,1.513012597,KHM,Krâchéh,Preaek Prasab,0.43
+M4,20,M4_20,4.58487789,KHM,Krâchéh,Preaek Prasab,0.43
+M4,20,M4_20,43.00238463,KHM,Krâchéh,Sambour,0.04
+M4,20,M4_20,18.03776436,KHM,Krâchéh,Sambour,0.04
+M4,20,M4_20,3.198598988,KHM,Krâchéh,Sambour,0.04
+M5,2,M5_2,5.696208341,KHM,Krâchéh,Kracheh,40
+M5,2,M5_2,2.808387333,KHM,Krâchéh,Preaek Prasab,0.43
+M5,5,M5_5,12.63581554,KHM,Krâchéh,Kracheh,40
+M5,5,M5_5,5.696208341,KHM,Krâchéh,Kracheh,40
+M5,5,M5_5,3.475689163,KHM,Krâchéh,Preaek Prasab,0.43
+M5,5,M5_5,2.808387333,KHM,Krâchéh,Preaek Prasab,0.43
+M5,10,M5_10,15.99867203,KHM,Krâchéh,Kracheh,40
+M5,10,M5_10,12.63581554,KHM,Krâchéh,Kracheh,40
+M5,10,M5_10,5.696208341,KHM,Krâchéh,Kracheh,40
+M5,10,M5_10,8.102825993,KHM,Krâchéh,Preaek Prasab,0.43
+M5,10,M5_10,3.475689163,KHM,Krâchéh,Preaek Prasab,0.43
+M5,10,M5_10,2.808387333,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,14.20608753,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,15.99867203,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,12.63581554,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,5.696208341,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,1.970989501,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,5.695318991,KHM,Krâchéh,Kracheh,40
+M5,20,M5_20,15.28028279,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,8.102825993,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,3.475689163,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,2.808387333,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,1.513012597,KHM,Krâchéh,Preaek Prasab,0.43
+M5,20,M5_20,4.58487789,KHM,Krâchéh,Preaek Prasab,0.43
+M6,2,M6_2,4.155652812,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,2,M6_2,0.045571939,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,2,M6_2,3.603460514,KHM,Tbong Khmum,Tboung Khmum,51
+M6,5,M6_5,4.131775286,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,5,M6_5,4.155652812,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,5,M6_5,3.207008289,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,5,M6_5,0.045571939,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,5,M6_5,0.032760593,KHM,Tbong Khmum,Kampong Siem,0
+M6,5,M6_5,4.858307615,KHM,Tbong Khmum,Tboung Khmum,51
+M6,5,M6_5,3.603460514,KHM,Tbong Khmum,Tboung Khmum,51
+M6,10,M6_10,4.131775286,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,10,M6_10,4.155652812,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,10,M6_10,9.88646157,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,10,M6_10,3.207008289,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,10,M6_10,0.045571939,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,10,M6_10,6.918392339,KHM,Tbong Khmum,Kampong Siem,0
+M6,10,M6_10,0.032760593,KHM,Tbong Khmum,Kampong Siem,0
+M6,10,M6_10,2.801755218,KHM,Tbong Khmum,Tboung Khmum,51
+M6,10,M6_10,4.858307615,KHM,Tbong Khmum,Tboung Khmum,51
+M6,10,M6_10,3.603460514,KHM,Tbong Khmum,Tboung Khmum,51
+M6,20,M6_20,4.131775286,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,20,M6_20,4.155652812,KHM,Kâmpóng Cham,Kampong Cham,75
+M6,20,M6_20,20.89320447,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,20,M6_20,9.88646157,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,20,M6_20,3.207008289,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,20,M6_20,0.045571939,KHM,Kâmpóng Cham,Kampong Siem,0
+M6,20,M6_20,10.2573672,KHM,Tbong Khmum,Kampong Siem,0
+M6,20,M6_20,6.918392339,KHM,Tbong Khmum,Kampong Siem,0
+M6,20,M6_20,0.032760593,KHM,Tbong Khmum,Kampong Siem,0
+M6,20,M6_20,7.783532484,KHM,Tbong Khmum,Krouch Chhmar,0
+M6,20,M6_20,1.133767147,KHM,Tbong Khmum,Tboung Khmum,0
+M6,20,M6_20,2.801755218,KHM,Tbong Khmum,Tboung Khmum,0
+M6,20,M6_20,4.858307615,KHM,Tbong Khmum,Tboung Khmum,0
+M6,20,M6_20,3.603460514,KHM,Tbong Khmum,Tboung Khmum,0
+M7,2,M7_2,1.525415902,KHM,Kândal,Khsach Kandal,92
+M7,2,M7_2,1.69317249,KHM,Kândal,Khsach Kandal,92
+M7,2,M7_2,0.874187733,KHM,Kândal,Lvea Aem,92
+M7,2,M7_2,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M7,2,M7_2,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M7,2,M7_2,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M7,2,M7_2,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,4.984728285,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,5.387004657,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,3.392350007,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,2.282837914,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,1.525415902,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,1.69317249,KHM,Kândal,Khsach Kandal,92
+M7,10,M7_10,0.874187733,KHM,Kândal,Lvea Aem,0
+M7,10,M7_10,3.84968049,KHM,Kândal,Mukh Kampul,92
+M7,10,M7_10,0.409462223,KHM,Kândal,Mukh Kampul,92
+M7,10,M7_10,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+M7,10,M7_10,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M7,10,M7_10,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M7,10,M7_10,6.222029437,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,3.718566581,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M7,10,M7_10,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,6.23863948,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,4.029320593,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,6.588506211,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,4.984728285,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,5.387004657,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,3.392350007,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,2.282837914,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,1.525415902,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,1.69317249,KHM,Kândal,Khsach Kandal,92
+M7,20,M7_20,0.874187733,KHM,Kândal,Lvea Aem,0
+M7,20,M7_20,16.37766136,KHM,Kândal,Mukh Kampul,92
+M7,20,M7_20,10.68752216,KHM,Kândal,Mukh Kampul,92
+M7,20,M7_20,13.44466954,KHM,Kândal,Mukh Kampul,92
+M7,20,M7_20,3.84968049,KHM,Kândal,Mukh Kampul,92
+M7,20,M7_20,0.409462223,KHM,Kândal,Mukh Kampul,92
+M7,20,M7_20,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+M7,20,M7_20,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M7,20,M7_20,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M7,20,M7_20,0.000105818,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,3.296151271,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,0.256953409,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,6.222029437,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,0.076834156,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,3.718566581,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,5.229350202,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M7,20,M7_20,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M8,2,M8_2,3.114138744,KHM,Kândal,Kien Svay,92
+M8,2,M8_2,4.699623596,KHM,Kândal,Lvea Aem,0
+M8,5,M8_5,3.605427532,KHM,Kândal,Kien Svay,92
+M8,5,M8_5,3.114138744,KHM,Kândal,Kien Svay,92
+M8,5,M8_5,0.069055202,KHM,Kândal,Kien Svay,92
+M8,5,M8_5,0.193631004,KHM,Kândal,Kien Svay,92
+M8,5,M8_5,3.829807775,KHM,Kândal,Lvea Aem,90
+M8,5,M8_5,4.699623596,KHM,Kândal,Lvea Aem,0
+M8,5,M8_5,1.080546721,KHM,Kândal,Lvea Aem,0
+M8,5,M8_5,0.273827307,KHM,Phnom Penh,Mean Chey,92
+M8,5,M8_5,0.220008972,KHM,Phnom Penh,Mean Chey,92
+M8,5,M8_5,2.581590058,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,2.282837914,KHM,Kândal,Khsach Kandal,92
+M8,10,M8_10,1.525415902,KHM,Kândal,Khsach Kandal,92
+M8,10,M8_10,1.69317249,KHM,Kândal,Khsach Kandal,92
+M8,10,M8_10,3.605427532,KHM,Kândal,Kien Svay,92
+M8,10,M8_10,3.114138744,KHM,Kândal,Kien Svay,92
+M8,10,M8_10,0.069055202,KHM,Kândal,Kien Svay,92
+M8,10,M8_10,0.193631004,KHM,Kândal,Kien Svay,92
+M8,10,M8_10,0.000155508,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,3.829807775,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,4.699623596,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,2.605865519,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,1.080546721,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,0.874187733,KHM,Kândal,Lvea Aem,0
+M8,10,M8_10,0.273827307,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,0.564354241,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,0.220008972,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,1.525433223,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,2.581590058,KHM,Phnom Penh,Mean Chey,92
+M8,10,M8_10,0.940467428,KHM,Phnom Penh,Phnom Penh,92
+M8,10,M8_10,1.387353387,KHM,Phnom Penh,Phnom Penh,92
+M8,10,M8_10,0.343111894,KHM,Phnom Penh,Phnom Penh,92
+M8,10,M8_10,0.678031242,KHM,Phnom Penh,Phnom Penh,92
+M8,10,M8_10,1.15385047,KHM,Phnom Penh,Phnom Penh,92
+M8,10,M8_10,0.882393191,KHM,Phnom Penh,Ruessei Kaev,92
+M8,10,M8_10,3.441374992,KHM,Phnom Penh,Ruessei Kaev,92
+M8,10,M8_10,1.586343067,KHM,Phnom Penh,Ruessei Kaev,92
+M8,10,M8_10,2.218001554,KHM,Phnom Penh,Ruessei Kaev,92
+M9,2,M9_2,3.381479566,KHM,Kândal,Leuk Daek,0.39
+M9,2,M9_2,3.501849569,KHM,Prey Vêng,Peam Chor,0
+M9,5,M9_5,6.875218561,KHM,Kândal,Leuk Daek,0.39
+M9,5,M9_5,3.381479566,KHM,Kândal,Leuk Daek,0.39
+M9,5,M9_5,6.64389818,KHM,Prey Vêng,Peam Chor,0
+M9,5,M9_5,3.501849569,KHM,Prey Vêng,Peam Chor,0
+M9,10,M9_10,12.36991098,KHM,Kândal,Leuk Daek,0.39
+M9,10,M9_10,6.875218561,KHM,Kândal,Leuk Daek,0.39
+M9,10,M9_10,3.381479566,KHM,Kândal,Leuk Daek,0.39
+M9,10,M9_10,8.324808532,KHM,Prey Vêng,Peam Chor,0
+M9,10,M9_10,6.64389818,KHM,Prey Vêng,Peam Chor,0
+M9,10,M9_10,3.501849569,KHM,Prey Vêng,Peam Chor,0
+M9,20,M9_20,21.09946947,KHM,Kândal,Leuk Daek,0.39
+M9,20,M9_20,12.36991098,KHM,Kândal,Leuk Daek,0.39
+M9,20,M9_20,6.875218561,KHM,Kândal,Leuk Daek,0.39
+M9,20,M9_20,3.381479566,KHM,Kândal,Leuk Daek,0.39
+M9,20,M9_20,19.471563,KHM,Prey Vêng,Peam Chor,0
+M9,20,M9_20,8.324808532,KHM,Prey Vêng,Peam Chor,0
+M9,20,M9_20,6.64389818,KHM,Prey Vêng,Peam Chor,0
+M9,20,M9_20,3.501849569,KHM,Prey Vêng,Peam Chor,0
+SK1,2,SK1_2,5.46263999,KHM,Stœng Trêng,Sesan,0
+SK1,2,SK1_2,2.62465616,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,5,SK1_5,9.282618717,KHM,Stœng Trêng,Sesan,0
+SK1,5,SK1_5,5.46263999,KHM,Stœng Trêng,Sesan,0
+SK1,5,SK1_5,2.9549069,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,5,SK1_5,2.62465616,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,10,SK1_10,18.87739151,KHM,Stœng Trêng,Sesan,0
+SK1,10,SK1_10,9.282618717,KHM,Stœng Trêng,Sesan,0
+SK1,10,SK1_10,5.46263999,KHM,Stœng Trêng,Sesan,0
+SK1,10,SK1_10,1.850652803,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,10,SK1_10,2.9549069,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,10,SK1_10,2.62465616,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,20,SK1_20,51.24614302,KHM,Stœng Trêng,Sesan,0
+SK1,20,SK1_20,18.87739151,KHM,Stœng Trêng,Sesan,0
+SK1,20,SK1_20,9.282618717,KHM,Stœng Trêng,Sesan,0
+SK1,20,SK1_20,5.46263999,KHM,Stœng Trêng,Sesan,0
+SK1,20,SK1_20,0.804873657,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,20,SK1_20,1.850652803,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,20,SK1_20,2.9549069,KHM,Stœng Trêng,Stueng Traeng,34
+SK1,20,SK1_20,2.62465616,KHM,Stœng Trêng,Stueng Traeng,34
+SS1,2,SS1_2,7.910422759,KHM,Stœng Trêng,Sesan,0
+SS1,5,SS1_5,12.55322936,KHM,Stœng Trêng,Sesan,0
+SS1,5,SS1_5,7.910422759,KHM,Stœng Trêng,Sesan,0
+SS1,10,SS1_10,23.15307407,KHM,Stœng Trêng,Sesan,0
+SS1,10,SS1_10,12.55322936,KHM,Stœng Trêng,Sesan,0
+SS1,10,SS1_10,7.910422759,KHM,Stœng Trêng,Sesan,0
+SS1,20,SS1_20,37.87986286,KHM,Stœng Trêng,Sesan,0
+SS1,20,SS1_20,23.15307407,KHM,Stœng Trêng,Sesan,0
+SS1,20,SS1_20,12.55322936,KHM,Stœng Trêng,Sesan,0
+SS1,20,SS1_20,7.910422759,KHM,Stœng Trêng,Sesan,0
+,,,12.40275455,KHM,Kâmpóng Cham,Batheay,0
+,,,0.495674914,KHM,Kâmpóng Cham,Kampong Cham,75
+,,,5.189156478,KHM,Kâmpóng Cham,Kampong Siem,0
+,,,17.09983492,KHM,Kâmpóng Cham,Kampong Siem,0
+,,,99.48400738,KHM,Kâmpóng Cham,Kang Meas,0.07
+,,,62.20199969,KHM,Kâmpóng Cham,Kaoh Soutin,0.01
+,,,49.38809527,KHM,Kâmpóng Cham,Srei Santhor,0
+,,,75.93538848,KHM,Kâmpóng Cham,Stueng Trang,0
+,,,34.16752661,KHM,Kâmpóng Chhnang,Baribour,3
+,,,129.7668351,KHM,Kâmpóng Chhnang,Chol Kiri,0
+,,,29.63442452,KHM,Kâmpóng Chhnang,Kampong Chhnang,19
+,,,40.30875749,KHM,Kâmpóng Chhnang,Kampong Leaeng,0
+,,,80.11123814,KHM,Kâmpóng Chhnang,Kampong Tralach,33
+,,,18.67764788,KHM,Kâmpóng Chhnang,Rolea B'ier,0.26
+,,,17.63914614,KHM,Kândal,Kaoh Thum,0.66
+,,,44.96376386,KHM,Kândal,Khsach Kandal,92
+,,,39.26643127,KHM,Kândal,Kien Svay,92
+,,,82.10876131,KHM,Kândal,Kien Svay,92
+,,,45.06353107,KHM,Kândal,Leuk Daek,92
+,,,68.86779628,KHM,Kândal,Lvea Aem,0
+,,,29.72725692,KHM,Kândal,Mukh Kampul,92
+,,,0.340365049,KHM,Kândal,Mukh Kampul,92
+,,,3.47833108,KHM,Kândal,Mukh Kampul,92
+,,,87.00535313,KHM,Kândal,Ponhea Lueu,2.64
+,,,9.596440981,KHM,Kândal,Ponhea Lueu,2.64
+,,,10.00358625,KHM,Kândal,Ponhea Lueu,2.64
+,,,130.2845973,KHM,Kândal,S'ang,0
+,,,9.956858467,KHM,Kândal,Ta Khmau,22.86
+,,,60.24074926,KHM,Krâchéh,Chhloung,0
+,,,29.62349178,KHM,Krâchéh,Kracheh,40
+,,,95.74472507,KHM,Krâchéh,Preaek Prasab,0.43
+,,,105.4950681,KHM,Krâchéh,Sambour,0.04
+,,,28.42998941,KHM,Krâchéh,Sambour,0.04
+,,,19.87877531,KHM,Phnom Penh,Mean Chey,92
+,,,5.577699556,KHM,Phnom Penh,Phnom Penh,92
+,,,0.049412601,KHM,Phnom Penh,Ruessei Kaev,92
+,,,2.442639529,KHM,Phnom Penh,Ruessei Kaev,92
+,,,0.000105818,KHM,Phnom Penh,Ruessei Kaev,92
+,,,19.51024629,KHM,Phnom Penh,Ruessei Kaev,92
+,,,0.256953409,KHM,Phnom Penh,Ruessei Kaev,92
+,,,4.115845148,KHM,Phnom Penh,Ruessei Kaev,92
+,,,0.076834156,KHM,Phnom Penh,Ruessei Kaev,92
+,,,35.49647376,KHM,Prey Vêng,Peam Chor,0
+,,,40.00498562,KHM,Prey Vêng,Peam Ro,16
+,,,73.98766698,KHM,Stœng Trêng,Sesan,0
+,,,114.6613304,KHM,Stœng Trêng,Siem Bouk,2.22
+,,,377.0860493,KHM,Stœng Trêng,Siem Pang,0
+,,,22.59230649,KHM,Stœng Trêng,Stueng Traeng,34
+,,,3.154344951,KHM,Stœng Trêng,Stueng Traeng,34
+,,,125.4532843,KHM,Stœng Trêng,Thala Barivat,0
+,,,90.91722914,KHM,Tbong Khmum,Krouch Chhmar,0
+,,,0.069057214,KHM,Tbong Khmum,Ou Reang Ov,0.95
+,,,17.42060799,KHM,Tbong Khmum,Tboung Khmum,51

@@ -1,0 +1,59 @@
+site,match_category_corrected,size_W,size_L,morphology,blank_type,filename,total_values,volume,total_N,total_MDA,corrected_N,N_per_L
+B1,Other plastic,<50,300-400,fiber/filament,H2O2,Results_Bassac2_070422_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+B1,Other plastic,<50,400-500,fiber/filament,H2O2,Results_Bassac2_070422_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+B1,Polyethylenes,<50,300-400,fiber/filament,H2O2,Results_Bassac2_070422_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+B1,Polyethylenes,<50,>1000,fiber/filament,H2O2,Results_Bassac2_070422_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+B1,Polyterephthalates,<50,50-100,fiber/filament,H2O2,Results_Bassac2_070422_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M1,Polyethylenes,300-400,300-400,fragment,H2O2,Results_Mekong10_071122_335_derivative_OG_T0.7_results.csv,3,65,3,0,3,0.046153846153846156
+M1,Polyethylenes,<50,200-300,fragment,H2O2,Results_Mekong10_071122_335_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M1,Polyethylenes,<50,50-100,fiber/filament,H2O2,Results_Mekong10_071122_335_derivative_OG_T0.7_results.csv,2,65,2,0,2,0.03076923076923077
+M1,Polypropylene,<50,50-100,fiber/filament,H2O2,Results_Mekong10_071122_335_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M2,Polyethylenes,<50,500-600,fiber/filament,H2O2,Results_Mekong8_070922_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3,Other plastic,400-500,400-500,fragment,H2O2,Results_Mekong7_July82022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3,Polypropylene,50-100,50-100,film,H2O2,Results_Mekong7_July82022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3,Polypropylene,<50,100-200,fiber/filament,H2O2,Results_Mekong7_July82022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3,Polyterephthalates,200-300,300-400,fragment,H2O2,Results_Mekong7_July82022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3,Polyterephthalates,600-700,600-700,fragment,H2O2,Results_Mekong7_July82022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Other plastic,<50,100-200,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyamides (polylactams),50-100,100-200,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyamides (polylactams),50-100,300-400,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,2,65,2,0,2,0.03076923076923077
+M3D,Polyamides (polylactams),50-100,300-400,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,2,65,2,0,2,0.03076923076923077
+M3D,Polyamides (polylactams),50-100,400-500,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyamides (polylactams),<50,300-400,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyethylenes,100-200,200-300,film,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyethylenes,300-400,300-400,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyethylenes,50-100,100-200,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,100-200,300-400,film,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,200-300,400-500,film,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,50-100,100-200,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,50-100,300-400,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,50-100,50-100,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,2,65,2,0,2,0.03076923076923077
+M3D,Polyterephthalates,50-100,600-700,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,50-100,700-800,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,50-100,900-1000,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,<50,300-400,fiber/filament,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,<50,50-100,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,3,65,3,0,3,0.046153846153846156
+M3D,Polyterephthalates,<50,500-600,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M3D,Polyterephthalates,<50,<50,fragment,H2O2,Results_Mekong7_Dup_070822_335um_derivative_OG_T0.7_results.csv,2,65,2,0,2,0.03076923076923077
+M4,Other plastic,<50,50-100,fiber/filament,H2O2,Results_Mekong6_070922_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M4,Polypropylene,<50,100-200,fiber/filament,H2O2,Results_Mekong6_070922_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M4,Polypropylene,<50,300-400,fiber/filament,H2O2,Results_Mekong6_070922_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M4,Polyterephthalates,<50,800-900,fiber/filament,H2O2,Results_Mekong6_070922_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M5,Polyterephthalates,<50,200-300,fragment,H2O2,Results_Mekong5_070722_335um_derivative_OG_T0.7_results.csv,1,22,1,0,1,0.045454545454545456
+M8,Other plastic,<50,600-700,fiber/filament,H2O2,Results_Mekong2_July0622_335um_derivative_OG_T0.7_results.csv,1,30,1,0,1,0.03333333333333333
+M8,Polystyrenes,<50,50-100,fragment,H2O2,Results_Mekong2_July0622_335um_derivative_OG_T0.7_results.csv,1,30,1,0,1,0.03333333333333333
+M8,Polystyrenes,<50,<50,fragment,H2O2,Results_Mekong2_July0622_335um_derivative_OG_T0.7_results.csv,2,30,2,0,2,0.06666666666666667
+M8,Polyterephthalates,<50,300-400,fiber/filament,H2O2,Results_Mekong2_July0622_335um_derivative_OG_T0.7_results.csv,1,30,1,0,1,0.03333333333333333
+M8,Polyterephthalates,<50,900-1000,fiber/filament,H2O2,Results_Mekong2_July0622_335um_derivative_OG_T0.7_results.csv,1,30,1,0,1,0.03333333333333333
+M9,Polyethylenes,50-100,50-100,fragment,H2O2,Results_Mekong3_071522_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+M9,Polyterephthalates,<50,400-500,fiber/filament,H2O2,Results_Mekong3_071522_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyethylenes,600-700,900-1000,fragment,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polypropylene,200-300,300-400,film,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polypropylene,200-300,600-700,film,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,100-200,300-400,film,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,100-200,300-400,fragment,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,100-200,600-700,film,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,200-300,600-700,fragment,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,200-300,>1000,film,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SK1,Polyterephthalates,<50,100-200,fragment,H2O2,Results_Sekong1_July1022_335um_derivative_OG_T0.7_results.csv,1,65,1,0,1,0.015384615384615385
+SS1,Polyterephthalates,100-200,200-300,film,H2O2,Results_Sesan1_July1022_335um_derivative_OG_T0.7_results.csv,1,63,1,0,1,0.015873015873015872
